@@ -1,5 +1,118 @@
 {
   "transactions": [
-    
+    {
+      "id": 1,
+      "value": -350,
+      "type": "Expense",
+      "date": 1538686800000
+    },
+    {
+      "id": 2,
+      "value": 2890,
+      "type": "Income",
+      "date": 1533589200000
+    },
+    {
+      "id": 3,
+      "value": -1267,
+      "type": "Expense",
+      "date": 1506412947000
+    },
+    {
+      "id": 4,
+      "value": -5699,
+      "type": "Expense",
+      "date": 1555056147000
+    },
+    {
+      "id": 5,
+      "value": 18000,
+      "type": "Income",
+      "date": 1554325200000
+    },
+    {
+      "id": 6,
+      "value": -690,
+      "type": "Expense",
+      "date": 1548921747000
+    },
+    {
+      "id": 7,
+      "value": -100,
+      "type": "Expense",
+      "date": 1543946747000
+    },
+    {
+      "id": 8,
+      "value": 23800,
+      "type": "Income",
+      "date": 1561449747000
+    },
+    {
+      "id": 9,
+      "value": 13560,
+      "type": "Income",
+      "date": 1561817347000
+    },
+    {
+      "id": 10,
+      "value": -605948,
+      "type": "Expense",
+      "date": 1551427347000
+    },
+    {
+      "value": 40000,
+      "type": "Income",
+      "date": 1564495573326,
+      "id": 11
+    },
+    {
+      "value": 50000,
+      "type": "Income",
+      "date": 1564495587370,
+      "id": 12
+    },
+    {
+      "value": -500000,
+      "type": "Expense",
+      "date": 1564495597086,
+      "id": 13
+    },
+    {
+      "value": 1200000,
+      "type": "Income",
+      "date": 1564495607474,
+      "id": 14
+    },
+    {
+      "value": -5000,
+      "type": "Expense",
+      "date": 1564499075937,
+      "id": 15
+    },
+    {
+      "value": -1200000,
+      "type": "Expense",
+      "date": 1564499086074,
+      "id": 16
+    },
+    {
+      "value": 12000,
+      "type": "Income",
+      "date": 1564499104771,
+      "id": 17
+    },
+    {
+      "value": -500,
+      "type": "Expense",
+      "date": 1564522984754,
+      "id": 18
+    },
+    {
+      "value": -19200,
+      "type": "Expense",
+      "date": 1564566416340,
+      "id": 19
+    }
   ]
 }
