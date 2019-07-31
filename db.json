@@ -126,5 +126,72 @@
       "date": 1564566416340,
       "id": 21
     }
+  ],
+  "counterparts": [
+    {
+      "name": "Denis",
+      "balance": -1000,
+      "id": 1
+    },
+    {
+      "name": "Olga",
+      "balance": 1000,
+      "id": 2
+    },
+    {
+      "name": "Vany",
+      "balance": 1,
+      "id": 3
+    },
+    {
+      "name": "Koly",
+      "balance": -1000,
+      "id": 4
+    },
+    {
+      "name": "Yohan",
+      "balance": 234,
+      "id": 5
+    },
+    {
+      "name": "Georg",
+      "balance": -300,
+      "id": 6
+    },
+    {
+      "name": "Genrry",
+      "balance": 1200,
+      "id": 7
+    },
+    {
+      "name": "Nikto",
+      "balance": 100,
+      "id": 8
+    },
+    {
+      "name": "Nekto",
+      "balance": 300,
+      "id": 9
+    },
+    {
+      "name": "Valera",
+      "balance": 10000,
+      "id": 10
+    },
+    {
+      "name": "Garik",
+      "balance": 1,
+      "id": 11
+    },
+    {
+      "name": "arnold",
+      "balance": 12000000,
+      "id": 12
+    },
+    {
+      "name": "arnold",
+      "balance": 1,
+      "id": 13
+    }
   ]
 }
